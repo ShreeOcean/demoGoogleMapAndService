@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapDemoApp</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD2yKxsf9uvFjVs9CWeYN9BdI2ZtG3t6ls</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
